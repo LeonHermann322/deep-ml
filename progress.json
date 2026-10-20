@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T11:24:40.157Z",
+  "generated_at": "2026-10-20T11:28:06.784Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -89,6 +89,19 @@
       "path": "problems/0008-calculate-2x2-matrix-inverse",
       "first_solved_at": "2026-10-20T11:24:42.098Z",
       "last_pushed_at": "2026-10-20T11:24:42.098Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:1228": {
+      "kind": "problem",
+      "id": "1228",
+      "title": "Mean Squared Error from Scratch",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1228",
+      "path": "problems/1228-mean-squared-error-from-scratch",
+      "first_solved_at": "2026-10-20T11:28:08.740Z",
+      "last_pushed_at": "2026-10-20T11:28:08.740Z",
       "language": "python",
       "lines": 17
     }
