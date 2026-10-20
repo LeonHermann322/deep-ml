@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**12** solved · 11 problems · 0 labs · 1 math
+**13** solved · 11 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-10-20 | [solution](math/0012-inverse-and-rank) |
+| [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-10-20 | [solution](math/0014-orthogonality-and-projections) |
 
 ---
 
