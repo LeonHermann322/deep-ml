@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T14:19:46.634Z",
+  "generated_at": "2026-11-03T15:16:05.922Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -176,6 +176,19 @@
       "path": "math/0034-least-squares-and-the-normal-equations",
       "first_solved_at": "2026-10-20T13:57:06.727Z",
       "last_pushed_at": "2026-10-20T13:57:06.727Z"
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-11-03T15:16:05.649Z",
+      "last_pushed_at": "2026-11-03T15:16:05.649Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
