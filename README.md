@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**42** solved · 39 problems · 0 labs · 3 math
+**43** solved · 40 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-11-04 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-10-20 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-11-04 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
+| [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-11-04 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-10-20 | [solution](problems/0083-dot-product-calculator) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-11-03 | [solution](problems/0016-feature-scaling-implementation) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-11-04 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
