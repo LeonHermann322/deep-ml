@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T21:00:20.223Z",
+  "generated_at": "2026-11-04T21:03:12.518Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -462,6 +462,19 @@
       "last_pushed_at": "2026-11-04T21:00:20.929Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:69": {
+      "kind": "problem",
+      "id": "69",
+      "title": "Calculate R-squared for Regression Analysis",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/69",
+      "path": "problems/0069-calculate-r-squared-for-regression-analysis",
+      "first_solved_at": "2026-11-04T21:03:13.263Z",
+      "last_pushed_at": "2026-11-04T21:03:13.263Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
