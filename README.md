@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**53** solved · 50 problems · 0 labs · 3 math
+**54** solved · 51 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -44,6 +44,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the ELU Activation Function](https://www.deep-ml.com/problems/97) | easy | 2026-11-05 | [solution](problems/0097-implement-the-elu-activation-function) |
 | [Implement the Hard Sigmoid Activation Function](https://www.deep-ml.com/problems/96) | easy | 2026-11-05 | [solution](problems/0096-implement-the-hard-sigmoid-activation-function) |
 | [Implement the Softplus Activation Function](https://www.deep-ml.com/problems/99) | easy | 2026-11-05 | [solution](problems/0099-implement-the-softplus-activation-function) |
+| [Implement the Softsign Activation Function](https://www.deep-ml.com/problems/100) | easy | 2026-11-05 | [solution](problems/0100-implement-the-softsign-activation-function) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-11-04 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-11-04 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-11-04 | [solution](problems/0044-leaky-relu-activation-function) |
