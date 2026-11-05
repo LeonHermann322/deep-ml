@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T11:29:19.498Z",
+  "generated_at": "2026-11-05T11:30:09.899Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -668,6 +668,19 @@
       "path": "problems/0097-implement-the-elu-activation-function",
       "first_solved_at": "2026-11-05T11:29:18.502Z",
       "last_pushed_at": "2026-11-05T11:29:18.502Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:99": {
+      "kind": "problem",
+      "id": "99",
+      "title": "Implement the Softplus Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/99",
+      "path": "problems/0099-implement-the-softplus-activation-function",
+      "first_solved_at": "2026-11-05T11:30:08.688Z",
+      "last_pushed_at": "2026-11-05T11:30:08.688Z",
       "language": "python",
       "lines": 14
     }
