@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T11:26:56.186Z",
+  "generated_at": "2026-11-10T14:41:47.879Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1060,6 +1060,19 @@
       "last_pushed_at": "2026-11-10T11:26:56.860Z",
       "language": "python",
       "lines": 42
+    },
+    "problem:1443": {
+      "kind": "problem",
+      "id": "1443",
+      "title": "Energy-Based Voice Activity Detection with Hangover",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/1443",
+      "path": "problems/1443-energy-based-voice-activity-detection-with-hangover",
+      "first_solved_at": "2026-11-10T14:41:44.469Z",
+      "last_pushed_at": "2026-11-10T14:41:44.469Z",
+      "language": "python",
+      "lines": 54
     }
   }
 }

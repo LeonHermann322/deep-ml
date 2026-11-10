@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**82** solved · 79 problems · 0 labs · 3 math
+**83** solved · 80 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -77,6 +77,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-11-09 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-20 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-11-09 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
+| [Energy-Based Voice Activity Detection with Hangover](https://www.deep-ml.com/problems/1443) | medium | 2026-11-10 | [solution](problems/1443-energy-based-voice-activity-detection-with-hangover) |
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2026-11-09 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-11-09 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-11-09 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
