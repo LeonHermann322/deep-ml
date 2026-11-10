@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T10:50:31.543Z",
+  "generated_at": "2026-11-10T11:08:15.182Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1034,6 +1034,19 @@
       "last_pushed_at": "2026-11-10T10:50:32.441Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:60": {
+      "kind": "problem",
+      "id": "60",
+      "title": "Implement TF-IDF (Term Frequency-Inverse Document Frequency)",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/60",
+      "path": "problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency",
+      "first_solved_at": "2026-11-10T11:08:15.780Z",
+      "last_pushed_at": "2026-11-10T11:08:15.780Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
