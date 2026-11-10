@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**83** solved · 80 problems · 0 labs · 3 math
+**84** solved · 81 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -73,6 +73,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-11-03 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-20 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-11-05 | [solution](problems/0121-vector-element-wise-sum) |
+| [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-11-10 | [solution](problems/0087-adam-optimizer) |
 | [Binary Cross-Entropy from Logits](https://www.deep-ml.com/problems/1229) | medium | 2026-11-10 | [solution](problems/1229-binary-cross-entropy-from-logits) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-11-09 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-20 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
