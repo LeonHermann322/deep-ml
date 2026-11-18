@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T15:01:56.291Z",
+  "generated_at": "2026-11-18T14:48:07.375Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1097,6 +1097,19 @@
       "path": "problems/0077-calculate-performance-metrics-for-a-classification-model",
       "first_solved_at": "2026-11-10T15:01:57.070Z",
       "last_pushed_at": "2026-11-10T15:01:57.070Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:173": {
+      "kind": "problem",
+      "id": "173",
+      "title": "Implement K-Nearest Neighbors",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/173",
+      "path": "problems/0173-implement-k-nearest-neighbors",
+      "first_solved_at": "2026-11-18T14:48:07.094Z",
+      "last_pushed_at": "2026-11-18T14:48:07.094Z",
       "language": "python",
       "lines": 23
     }
