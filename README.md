@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**86** solved · 83 problems · 0 labs · 3 math
+**87** solved · 84 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -89,6 +89,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2026-11-10 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-11-10 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2026-11-10 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |
+| [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-11-18 | [solution](problems/0192-implement-the-huber-loss-function) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-11-10 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-11-05 | [solution](problems/0017-k-means-clustering) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-20 | [solution](problems/0009-matrix-times-matrix) |
