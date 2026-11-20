@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**92** solved · 89 problems · 0 labs · 3 math
+**93** solved · 90 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -85,6 +85,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-11-20 | [solution](problems/0151-dropout-layer) |
 | [Energy-Based Voice Activity Detection with Hangover](https://www.deep-ml.com/problems/1443) | medium | 2026-11-10 | [solution](problems/1443-energy-based-voice-activity-detection-with-hangover) |
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2026-11-09 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
+| [Gradient Clipping by Global Norm](https://www.deep-ml.com/problems/197) | medium | 2026-11-20 | [solution](problems/0197-gradient-clipping-by-global-norm) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-11-09 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-11-09 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-11-06 | [solution](problems/0018-implement-k-fold-cross-validation) |
